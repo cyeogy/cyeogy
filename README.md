@@ -7,6 +7,6 @@ cyeogy/cyeogy is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-
+![GitHub language count](https://img.shields.io/github/languages/count/cyeogy/cyeogy)
 
 ![GitHub followers](https://img.shields.io/github/followers/cyeogy?style=social)
